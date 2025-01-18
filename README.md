@@ -41,7 +41,7 @@ Setup Instructions
 
 Clone the repository:
 
-git clone https://github.com/your-username/calculator.git
+git clone https://github.com/Subrat-IO/Subrat-Calculator
 
 Navigate to the project directory:
 
@@ -63,14 +63,12 @@ Contribution
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-License
-
-This project is licensed under the MIT License.
 
 Contact
 
 For questions or feedback, reach out at:
-your-email@example.com
+subratsethi511@gmail.com
 
 Live Application Link
+https://subrat-io.github.io/Subrat-Calculator/
 
